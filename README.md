@@ -31,7 +31,7 @@ This script uses Selenium and BeautifulSoup to scrape a web page, find instances
    - Find all instances of the keyword within the HTML body using regular expressions.
 
 7. **Write Results to File:**
-   - Write the title of the page to a text file (`BBS_scraping.txt`).
+   - Write the title of the page to a text file (`text_scraping.txt`).
    - Write all instances of the keyword found in the article to the file, along with a count.
    - Close the file.
 
